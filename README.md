@@ -16,3 +16,4 @@ This is a simple implementation of the Hangman game in Python.
 ### Run the Game:
 1. Clone this repository.
 2. Run `python hangman.py` to start the game.
+<img width="442" height="338" alt="Screenshot 2025-10-31 211145" src="https://github.com/user-attachments/assets/f6bce1c0-bcd0-43ad-9546-70faf5d1bb9b" />
