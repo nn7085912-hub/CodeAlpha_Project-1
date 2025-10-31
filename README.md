@@ -1,3 +1,8 @@
+Name:Gurivigandla Guru Naresh
+Company:CodeAlpha
+ID:CA/SE1/18253
+Domain:python programming
+Duration:10th OCT 2025 to 10th NOV 2025
 # CodeAlpha_Project-1
 # Hangman Game
 
